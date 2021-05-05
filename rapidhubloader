@@ -1,1 +1,3 @@
+local kick = game.Players.LocalPlayer
 
+kick:Kick('Not out yet. Join: https://discord.gg/usnEGYwabS Copid To Clipboard.')
